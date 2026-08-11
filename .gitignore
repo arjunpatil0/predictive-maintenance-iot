@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Builds
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+local.settings.json
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
